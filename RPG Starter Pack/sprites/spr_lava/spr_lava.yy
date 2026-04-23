@@ -20,6 +20,7 @@
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"3470bf57-007d-4f06-8338-5f11114070d5","blendMode":0,"displayName":"default","isLocked":false,"name":"3470bf57-007d-4f06-8338-5f11114070d5","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"ab396988-2177-4af5-9c72-61958de8c155","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"ab396988-2177-4af5-9c72-61958de8c155","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_lava",
   "nineSlice":null,
